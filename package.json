@@ -1,0 +1,26 @@
+{
+  "name": "dqueue",
+  "version": "0.0.0",
+  "description": "dqueue ======",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/abraxas/dqueue.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/abraxas/dqueue/issues"
+  },
+  "homepage": "https://github.com/abraxas/dqueue",
+  "dependencies": {
+    "dnode": "~1.2.0",
+    "async": "~0.2.10",
+  },
+  "devDependencies": {
+    "mocha": "~1.17.1"
+  }
+}
